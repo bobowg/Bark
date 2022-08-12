@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.compose.material:material:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/84d0bcdad8cee4e676b598f5d0731b76/transformed/material-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] /home/bobo/.gradle/caches/transforms-3/215a517859749fe316baa213ca8cdc34/transformed/activity-compose-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/23188de6b32449eb9769a57cc9235fa5/transformed/material-ripple-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/d92cfcef89204b8e97afb237b13afb60/transformed/foundation-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.0] /home/bobo/.gradle/caches/transforms-3/4a8ba98f4a002f9a4f55e7075283b663/transformed/animation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.0] /home/bobo/.gradle/caches/transforms-3/fd9bcce3e20af30d984248efc8a57f25/transformed/animation-core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/cd9c8563a7f0087043aef2170f1e99cb/transformed/material-icons-core-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/408aea388ab4a6c6923cb2596ea2924c/transformed/foundation-layout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/078f69ff13d584175d673beb365cef10/transformed/ui-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/bobo/.gradle/caches/transforms-3/2a9feb20f120f025d825a126f87ed624/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/bobo/.gradle/caches/transforms-3/a155765c51fce312c1d7c5cc413224df/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/29430892449998f036c5fa8bab9f693a/transformed/ui-tooling-preview-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/cd6e97bf70fe4ebc78e21a98df238470/transformed/ui-text-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/134beb94595b5a66dc0d535faffbd02d/transformed/runtime-saveable-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/6b9cee1b54aeb446a2f19d73aae7a029/transformed/ui-graphics-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/27d190f3b1902393acb466fca787421e/transformed/ui-unit-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/89a0e1d997d7bbe9db9a23a3d8722d68/transformed/ui-geometry-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/6b3cd60b24f15045c4d9c4e633c7b303/transformed/runtime-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/bobo/.gradle/caches/transforms-3/f5ffd44d721931c6dd344697ebf21f05/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/bobo/.gradle/caches/transforms-3/1451a5009a9ed10756fe1927e08b33e7/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /home/bobo/.gradle/caches/transforms-3/733c5645ca6fb89743f917bf17393fef/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/bobo/.gradle/caches/transforms-3/fa2f876528096779b9c505e96c3e080c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/bobo/.gradle/caches/transforms-3/26ac826e283b223f0aebc6a48f1f9ad5/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/fef42bcc52481955175e9bf7f2d06939/transformed/ui-util-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/bobo/.gradle/caches/transforms-3/a8691f8e41b5c990c8e735b399b39ca0/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/bobo/.gradle/caches/transforms-3/d90129f5bed8b97837db06364af96468/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/bobo/.gradle/caches/transforms-3/7ba5852d7ab04733c8cb288295bfa414/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/bobo/.gradle/caches/transforms-3/da7eca7b2c6117f83d4531265ee41071/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/bobo/.gradle/caches/transforms-3/97b2311014d0a89f7bc4e1bfeb27d3bf/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bobo/.gradle/caches/transforms-3/15e71206b4c104d8894dacaa7b20113b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/bobo/.gradle/caches/transforms-3/b485676a5290413cf8f427f747fc8d94/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/bobo/.gradle/caches/transforms-3/62fc341b3d7a9812688ad4a53460ab10/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/bobo/.gradle/caches/transforms-3/a8b51d9a49b4d031662e145df7b890c7/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bobo/.gradle/caches/transforms-3/7f0a7a38340613672d97e1aa2faf05e4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bobo/.gradle/caches/transforms-3/91694bfa859c79fd1a3d84f4de66d2f4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] /home/bobo/.gradle/caches/transforms-3/3ff4486d5b2660c0bb7d5c6369bcbb9e/transformed/activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bobo/.gradle/caches/transforms-3/c93c3dc1fcdf2895e94f8430b6c96011/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/bobo/.gradle/caches/transforms-3/c89cdfeb8e0fb799f6ebcf78a7f67029/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/bobo/.gradle/caches/transforms-3/c89abb1dd6d1ebb4caa78ffb79572073/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/bobo/.gradle/caches/transforms-3/60e12211205b82f4ff9b600221f2ee43/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/bobo/.gradle/caches/transforms-3/d44e5dff9b5fda80e664d5cebaa0c070/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/bobo/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/bobo/.gradle/caches/transforms-3/1a011d6b61207f64c022e0d471ef52c9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/bobo/.gradle/caches/transforms-3/c20cd22db88cc8a4b7d591de7f8056be/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/bobo/.gradle/caches/transforms-3/c1a6786ee740eb0723cd95443e73d0cf/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/bobo/.gradle/caches/transforms-3/4f4d2a0fc3b6d283a137081dca81b0d2/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bobo/.gradle/caches/transforms-3/3c713ce82c82e452e4a935db4db7bbb9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/bobo/.gradle/caches/transforms-3/7b783f5a9cdb42906a78388721b90978/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bobo/.gradle/caches/transforms-3/a4990febea5baf53d4a39da9bd881cf0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bobo/.gradle/caches/transforms-3/3edf210491097676bd842c2ce43d6a32/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/bobo/.gradle/caches/transforms-3/d70c3ae5c1536be60e15fbe5e7ecb75a/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/bobo/.gradle/caches/transforms-3/b8b1ebd2aa791b69ed1de793c25e9031/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bobo/.gradle/caches/transforms-3/9a980a306874e1597305bbe4d4e84822/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bobo/.gradle/caches/transforms-3/6a55e9a914472331ba1bfceb38e740d1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/bobo/.gradle/caches/transforms-3/2d13f83a38ed868788cd674110af6550/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/bobo/.gradle/caches/transforms-3/ebecdf87874a8a9a85537ccba78bac79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/bobo/.gradle/caches/transforms-3/fd24544f95311c3decddfc21305b8c97/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/bobo/.gradle/caches/transforms-3/bbf08dc0b3928c59ad45c2cd9117d57d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] /home/bobo/.gradle/caches/transforms-3/733c5645ca6fb89743f917bf17393fef/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/bobo/.gradle/caches/transforms-3/733c5645ca6fb89743f917bf17393fef/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/bobo/.gradle/caches/transforms-3/fa2f876528096779b9c505e96c3e080c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/bobo/.gradle/caches/transforms-3/fa2f876528096779b9c505e96c3e080c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /home/bobo/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/bobo/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bobo/.gradle/caches/transforms-3/a4990febea5baf53d4a39da9bd881cf0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bobo/.gradle/caches/transforms-3/a4990febea5baf53d4a39da9bd881cf0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/bobo/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:14:9-42
+	android:dataExtractionRules
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:8:9-65
+activity#com.example.bark.ProfileActivity
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:16:9-19:39
+	android:exported
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:18:13-60
+	android:name
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:17:13-44
+activity#com.example.bark.MainActivity
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:24:13-46
+	android:name
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material:material:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/84d0bcdad8cee4e676b598f5d0731b76/transformed/material-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/84d0bcdad8cee4e676b598f5d0731b76/transformed/material-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /home/bobo/.gradle/caches/transforms-3/215a517859749fe316baa213ca8cdc34/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /home/bobo/.gradle/caches/transforms-3/215a517859749fe316baa213ca8cdc34/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/23188de6b32449eb9769a57cc9235fa5/transformed/material-ripple-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/23188de6b32449eb9769a57cc9235fa5/transformed/material-ripple-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/d92cfcef89204b8e97afb237b13afb60/transformed/foundation-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/d92cfcef89204b8e97afb237b13afb60/transformed/foundation-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.0] /home/bobo/.gradle/caches/transforms-3/4a8ba98f4a002f9a4f55e7075283b663/transformed/animation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.0] /home/bobo/.gradle/caches/transforms-3/4a8ba98f4a002f9a4f55e7075283b663/transformed/animation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.0] /home/bobo/.gradle/caches/transforms-3/fd9bcce3e20af30d984248efc8a57f25/transformed/animation-core-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.0] /home/bobo/.gradle/caches/transforms-3/fd9bcce3e20af30d984248efc8a57f25/transformed/animation-core-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/cd9c8563a7f0087043aef2170f1e99cb/transformed/material-icons-core-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/cd9c8563a7f0087043aef2170f1e99cb/transformed/material-icons-core-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/408aea388ab4a6c6923cb2596ea2924c/transformed/foundation-layout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/408aea388ab4a6c6923cb2596ea2924c/transformed/foundation-layout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/078f69ff13d584175d673beb365cef10/transformed/ui-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/078f69ff13d584175d673beb365cef10/transformed/ui-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/bobo/.gradle/caches/transforms-3/2a9feb20f120f025d825a126f87ed624/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/bobo/.gradle/caches/transforms-3/2a9feb20f120f025d825a126f87ed624/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/bobo/.gradle/caches/transforms-3/a155765c51fce312c1d7c5cc413224df/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/bobo/.gradle/caches/transforms-3/a155765c51fce312c1d7c5cc413224df/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/29430892449998f036c5fa8bab9f693a/transformed/ui-tooling-preview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/29430892449998f036c5fa8bab9f693a/transformed/ui-tooling-preview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/cd6e97bf70fe4ebc78e21a98df238470/transformed/ui-text-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/cd6e97bf70fe4ebc78e21a98df238470/transformed/ui-text-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/134beb94595b5a66dc0d535faffbd02d/transformed/runtime-saveable-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/134beb94595b5a66dc0d535faffbd02d/transformed/runtime-saveable-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/6b9cee1b54aeb446a2f19d73aae7a029/transformed/ui-graphics-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/6b9cee1b54aeb446a2f19d73aae7a029/transformed/ui-graphics-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/27d190f3b1902393acb466fca787421e/transformed/ui-unit-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/27d190f3b1902393acb466fca787421e/transformed/ui-unit-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/89a0e1d997d7bbe9db9a23a3d8722d68/transformed/ui-geometry-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/89a0e1d997d7bbe9db9a23a3d8722d68/transformed/ui-geometry-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/6b3cd60b24f15045c4d9c4e633c7b303/transformed/runtime-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/6b3cd60b24f15045c4d9c4e633c7b303/transformed/runtime-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/bobo/.gradle/caches/transforms-3/f5ffd44d721931c6dd344697ebf21f05/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/bobo/.gradle/caches/transforms-3/f5ffd44d721931c6dd344697ebf21f05/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/bobo/.gradle/caches/transforms-3/1451a5009a9ed10756fe1927e08b33e7/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/bobo/.gradle/caches/transforms-3/1451a5009a9ed10756fe1927e08b33e7/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/bobo/.gradle/caches/transforms-3/733c5645ca6fb89743f917bf17393fef/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/bobo/.gradle/caches/transforms-3/733c5645ca6fb89743f917bf17393fef/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/bobo/.gradle/caches/transforms-3/fa2f876528096779b9c505e96c3e080c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/bobo/.gradle/caches/transforms-3/fa2f876528096779b9c505e96c3e080c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/bobo/.gradle/caches/transforms-3/26ac826e283b223f0aebc6a48f1f9ad5/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/bobo/.gradle/caches/transforms-3/26ac826e283b223f0aebc6a48f1f9ad5/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/fef42bcc52481955175e9bf7f2d06939/transformed/ui-util-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/fef42bcc52481955175e9bf7f2d06939/transformed/ui-util-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/bobo/.gradle/caches/transforms-3/a8691f8e41b5c990c8e735b399b39ca0/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/bobo/.gradle/caches/transforms-3/a8691f8e41b5c990c8e735b399b39ca0/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/bobo/.gradle/caches/transforms-3/d90129f5bed8b97837db06364af96468/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/bobo/.gradle/caches/transforms-3/d90129f5bed8b97837db06364af96468/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/bobo/.gradle/caches/transforms-3/7ba5852d7ab04733c8cb288295bfa414/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/bobo/.gradle/caches/transforms-3/7ba5852d7ab04733c8cb288295bfa414/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/bobo/.gradle/caches/transforms-3/da7eca7b2c6117f83d4531265ee41071/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/bobo/.gradle/caches/transforms-3/da7eca7b2c6117f83d4531265ee41071/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/bobo/.gradle/caches/transforms-3/97b2311014d0a89f7bc4e1bfeb27d3bf/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/bobo/.gradle/caches/transforms-3/97b2311014d0a89f7bc4e1bfeb27d3bf/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bobo/.gradle/caches/transforms-3/15e71206b4c104d8894dacaa7b20113b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bobo/.gradle/caches/transforms-3/15e71206b4c104d8894dacaa7b20113b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/bobo/.gradle/caches/transforms-3/b485676a5290413cf8f427f747fc8d94/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/bobo/.gradle/caches/transforms-3/b485676a5290413cf8f427f747fc8d94/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/bobo/.gradle/caches/transforms-3/62fc341b3d7a9812688ad4a53460ab10/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/bobo/.gradle/caches/transforms-3/62fc341b3d7a9812688ad4a53460ab10/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/bobo/.gradle/caches/transforms-3/a8b51d9a49b4d031662e145df7b890c7/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/bobo/.gradle/caches/transforms-3/a8b51d9a49b4d031662e145df7b890c7/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bobo/.gradle/caches/transforms-3/7f0a7a38340613672d97e1aa2faf05e4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bobo/.gradle/caches/transforms-3/7f0a7a38340613672d97e1aa2faf05e4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bobo/.gradle/caches/transforms-3/91694bfa859c79fd1a3d84f4de66d2f4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bobo/.gradle/caches/transforms-3/91694bfa859c79fd1a3d84f4de66d2f4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /home/bobo/.gradle/caches/transforms-3/3ff4486d5b2660c0bb7d5c6369bcbb9e/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /home/bobo/.gradle/caches/transforms-3/3ff4486d5b2660c0bb7d5c6369bcbb9e/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bobo/.gradle/caches/transforms-3/c93c3dc1fcdf2895e94f8430b6c96011/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bobo/.gradle/caches/transforms-3/c93c3dc1fcdf2895e94f8430b6c96011/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/bobo/.gradle/caches/transforms-3/c89cdfeb8e0fb799f6ebcf78a7f67029/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/bobo/.gradle/caches/transforms-3/c89cdfeb8e0fb799f6ebcf78a7f67029/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/bobo/.gradle/caches/transforms-3/c89abb1dd6d1ebb4caa78ffb79572073/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/bobo/.gradle/caches/transforms-3/c89abb1dd6d1ebb4caa78ffb79572073/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/bobo/.gradle/caches/transforms-3/60e12211205b82f4ff9b600221f2ee43/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/bobo/.gradle/caches/transforms-3/60e12211205b82f4ff9b600221f2ee43/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/bobo/.gradle/caches/transforms-3/d44e5dff9b5fda80e664d5cebaa0c070/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/bobo/.gradle/caches/transforms-3/d44e5dff9b5fda80e664d5cebaa0c070/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/bobo/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/bobo/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/bobo/.gradle/caches/transforms-3/1a011d6b61207f64c022e0d471ef52c9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/bobo/.gradle/caches/transforms-3/1a011d6b61207f64c022e0d471ef52c9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/bobo/.gradle/caches/transforms-3/c20cd22db88cc8a4b7d591de7f8056be/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/bobo/.gradle/caches/transforms-3/c20cd22db88cc8a4b7d591de7f8056be/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/bobo/.gradle/caches/transforms-3/c1a6786ee740eb0723cd95443e73d0cf/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/bobo/.gradle/caches/transforms-3/c1a6786ee740eb0723cd95443e73d0cf/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/bobo/.gradle/caches/transforms-3/4f4d2a0fc3b6d283a137081dca81b0d2/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/bobo/.gradle/caches/transforms-3/4f4d2a0fc3b6d283a137081dca81b0d2/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bobo/.gradle/caches/transforms-3/3c713ce82c82e452e4a935db4db7bbb9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bobo/.gradle/caches/transforms-3/3c713ce82c82e452e4a935db4db7bbb9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/bobo/.gradle/caches/transforms-3/7b783f5a9cdb42906a78388721b90978/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/bobo/.gradle/caches/transforms-3/7b783f5a9cdb42906a78388721b90978/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bobo/.gradle/caches/transforms-3/a4990febea5baf53d4a39da9bd881cf0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bobo/.gradle/caches/transforms-3/a4990febea5baf53d4a39da9bd881cf0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bobo/.gradle/caches/transforms-3/3edf210491097676bd842c2ce43d6a32/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bobo/.gradle/caches/transforms-3/3edf210491097676bd842c2ce43d6a32/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/bobo/.gradle/caches/transforms-3/d70c3ae5c1536be60e15fbe5e7ecb75a/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/bobo/.gradle/caches/transforms-3/d70c3ae5c1536be60e15fbe5e7ecb75a/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/bobo/.gradle/caches/transforms-3/b8b1ebd2aa791b69ed1de793c25e9031/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/bobo/.gradle/caches/transforms-3/b8b1ebd2aa791b69ed1de793c25e9031/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bobo/.gradle/caches/transforms-3/9a980a306874e1597305bbe4d4e84822/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bobo/.gradle/caches/transforms-3/9a980a306874e1597305bbe4d4e84822/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bobo/.gradle/caches/transforms-3/6a55e9a914472331ba1bfceb38e740d1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bobo/.gradle/caches/transforms-3/6a55e9a914472331ba1bfceb38e740d1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/bobo/.gradle/caches/transforms-3/2d13f83a38ed868788cd674110af6550/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/bobo/.gradle/caches/transforms-3/2d13f83a38ed868788cd674110af6550/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/bobo/.gradle/caches/transforms-3/ebecdf87874a8a9a85537ccba78bac79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/bobo/.gradle/caches/transforms-3/ebecdf87874a8a9a85537ccba78bac79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/bobo/.gradle/caches/transforms-3/fd24544f95311c3decddfc21305b8c97/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/bobo/.gradle/caches/transforms-3/fd24544f95311c3decddfc21305b8c97/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/bobo/.gradle/caches/transforms-3/bbf08dc0b3928c59ad45c2cd9117d57d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/bobo/.gradle/caches/transforms-3/bbf08dc0b3928c59ad45c2cd9117d57d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		ADDED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+		INJECTED from /media/bobo/learn/Phone/Bark/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bobo/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] /home/bobo/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:43:25-88
